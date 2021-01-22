@@ -2,3 +2,4 @@ import pygame# asdfapygame.init()DISPLAY = pygame.display.set_mode([800, 600])FP
 
 #here is a change I would make
 # pygame.QUIT:quit()DISPLAY.fill(black)pygame.draw.rect(DISPLAY, white, [left, top, width, height])left += 5    pygame.display.update()FPSCLOCK.tick(30)
+#comment
